@@ -1,3 +1,5 @@
+###VERALTET, DA IN MONOREPO FLOW-SPIN-SMASH KONSOLIDIERT###
+
 # SMASH
 
 **SMASH** ist ein Tool zur Unterbrechung von Schreibblockaden.  
